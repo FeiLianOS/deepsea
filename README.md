@@ -29,18 +29,3 @@ ql repo https://ghproxy.com/https://github.com/arvinsblog/deepsea.git "" "backup
 不懂代码的别改脚本 拉库后再青龙的配置文件config.sh里面设置变量export ****=**** 后直接运行脚本就行 一般变量是啥脚本里面都有标注
 ```
 
-### 交流
-暂无
-
-企鹅交流群&nbsp;&nbsp;<a target="_blank" href="#"><img border="0" src="https://img.tukuppt.com/png_preview/00/40/12/mbJ6HJWIde.jpg!/fw/780" alt="py交流群" title="py交流群"></a>
-&nbsp;&nbsp;&nbsp;电报频道&nbsp;&nbsp;<a href="#"><img alt="Telegram" src="https://img.shields.io/badge/chat-telegram-blue.svg?logo=telegram&style=flat-square"/></a> 
-&nbsp;&nbsp;&nbsp;交流群&nbsp;&nbsp;[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Chat&color=0088cc)](#)
-
-
-### 东东挂机上车
-
-地址：https://zzc.cbpwl.top/
- 
-
-### 赞赏码
-暂无
