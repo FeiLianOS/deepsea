@@ -13,10 +13,19 @@
 ```
 ql repo https://github.com/arvinsblog/deepsea.git "" "backup" "" ""
 ```
+Fork后的拉库：
+```
+ql repo https://github.com/FeiLianOS/deepsea.git "" "backup" "" ""
+```
 国内机子
 ```
 ql repo https://ghproxy.com/https://github.com/arvinsblog/deepsea.git "" "backup" "" ""
 ```
+Fork后的拉库：
+```
+ql repo https://ghproxy.com/https://github.com/FeiLianOS/deepsea.git "" "backup" "" ""
+```
+
 - [x] 脚本排错
 
 ```
