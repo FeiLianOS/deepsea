@@ -1,8 +1,5 @@
 <div align="center">     
 <h1 align="center">自用学习脚本 仅供学习 来了点个★</h1>
-<a href="https://github.com/arvinsblog/deepsea/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/arvinsblog/deepsea?color=yellow&logo=riseup&logoColor=yellow&style=flat-square"></a>
-<a href="https://github.com/arvinsblog/deepsea/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/arvinsblog/deepsea?color=orange&style=flat-square"></a>
-<a href="https://github.com/arvinsblog/deepsea/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/arvinsblog/deepsea?color=red&style=flat-square"></a>
 </div>
                                            
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](http://profile-counter.glitch.me/arvinsblog/count.svg)
